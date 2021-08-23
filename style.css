@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.main-div{
+    width: 1024px;
+    margin: auto;
+}
+/* ======Menu div css start====== */
+.menu{
+    background-color: #778beb;
+    padding: 20px 0px;
+    margin-bottom: 20px;
+}
+.menu ul{
+    text-align: center;
+}
+.menu ul li{
+    display:inline-block;
+}
+.menu ul li a{
+    display:inline-block;
+    background-color:#f5cd79;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    background-color:#f7d794;
+}
+/* ======First div css start====== */
+.first-div{
+    text-align: center;
+}
+.first-div h1:first-child{
+    color: #fff;
+    background-color:rgba(22, 119, 141, 0.741);
+    padding: 20px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.first-div div{
+    background-color: #f6e58d;
+    margin-bottom: 2px;
+    padding: 10px 0px;
+}
+.first-div footer{
+    background-color:#ffbe76;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div h1:nth-child(4) {
+    background-color: #ff7979;
+    margin-bottom: 1px;
+    color: white;
+    padding: 10px 0px;
+}
+.first-div h2{
+    background-color: #cd2424;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div h3{
+    color: white;
+    background-color: #4d3636;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div h4{
+    background-color: #47ae87;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div h5{
+    background-color: #6ab04c;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div h6{
+    background-color: #3045cb;
+    margin-bottom: 1px;
+    color: white;
+    padding: 10px 0px;
+}
+.first-div p{
+    background-color: #d962cf;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div section{
+    background-color: #4f95b0;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+tfoot{
+    color: teal;
+    background-color: tomato;
+    padding: 10px 0px;
+}
+.first-div fieldset{
+    background-color: #a5e0e5ad;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div form{
+    background-color: #20aeae;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div header{
+    background-color: #16e05a;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div li{
+    background-color: #a3cf32;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div ol{
+    background-color: #d24646;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.first-div ul{
+    background-color: #5f1ae7;
+    margin-bottom: 1px;
+    padding: 10px 0px;
+}
+.table{
+    background-color:green;
+    color: blue;
+    padding: 10px 0px;
+}
+
+/* ======Secend div css start ======*/
+.secend-div{
+    text-align: center;
+    margin: 100px 0px;
+}
+.secend-div h1:first-child{
+    color: #fff;
+    background-color: rgba(22, 119, 141, 0.741);
+    padding: 20px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.secend-div a{
+    color: white;
+    background-color: #f0932b;
+    padding: 10px 0px;
+}
+.secend-div cite{
+    color: white;
+    background-color: #764814;
+    padding: 10px 0px;
+}
+.secend-div i{
+    color: white;
+    background-color: #5db2b596;
+    padding: 10px 0px;
+    color: black;
+}
+.secend-div input{
+    color: white;
+    padding: 10px 0px;
+    color: black;
+}
+.secend-div q{
+    color: white;
+    background-color: #83a1a29f;
+    padding: 10px 0px;
+    color: black;
+}
+.secend-div small{
+    color: white;
+    background-color: #84de7cd4;
+    padding: 10px 0px;
+    color: black;
+}
+.secend-div strong{
+    color: white;
+    background-color: #5db2b596;
+    padding: 10px 0px;
+    color: black;
+}
+.secend-div sup{
+    color: white;
+    background-color: #e9c499cd;
+    padding: 10px 0px;
+    color: black;
+}
+.secend-div sub{
+    color: white;
+    background-color: #4b552be6;
+    padding: 10px 0px;
+    color: black;
+    color: white;
+}
+.secend-div b{
+    color: white;
+    background-color: teal;
+    padding: 10px 0;
+}
+.secend-div button{
+    background-color: #686de0;
+    padding: 10px 5px;
+    font-size: 15px;
+    border-radius: 6px;
+    outline:none;
+    color: white;
+}
+.secend-div em{
+    background-color: #95afc0;
+    padding: 10px 0px;
+}
+.secend-div span{
+    background-color:#130f40;
+    padding: 10px 0px;
+    color: white;
+}
